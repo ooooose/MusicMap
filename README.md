@@ -12,7 +12,7 @@
 `cd front`
 
 4. ローカル立ち上げ
-`npm dev`
+`yarn dev`
 
 5. 構文チェック
 `yarn lint:fix`
